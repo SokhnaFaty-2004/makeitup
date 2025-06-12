@@ -6,7 +6,7 @@
 }
 nav{
     display: flex;
-    height: 3%;
+    height: 8%;
    width: 90%;
    margin-left: 5%;
 
@@ -40,6 +40,7 @@ nav{
 }
 .menu li{
     list-style: none;
+    margin-top: 2%;
 }
 .menu ul li a{
         text-align: center;
