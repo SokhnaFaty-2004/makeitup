@@ -7,10 +7,8 @@
 nav{
     display: flex;
     height: 12%;
-   width: 90%;
-   margin-left: 5%;
+   width: 100%;
    background-color: white;
-   background-color: #ffffff;
    position: sticky;
     top: 0;
 
@@ -22,6 +20,7 @@ nav{
     border: 1px solid black;
     margin-top: 15px;
     overflow: hidden;
+    margin-left: 5%;
 }
 .logo img{
     width: 100%;
@@ -174,4 +173,7 @@ color: black;
 }
 .fa-linkedin{
     font-size: 30px;
+}
+a{
+    color: black;
 }

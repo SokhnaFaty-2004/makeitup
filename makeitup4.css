@@ -7,7 +7,7 @@
 nav{
     display: flex;
     height: 5%;
-   width: 90%;
+   width: 100%;
    margin-left: 5%;
    background-color: #ffffff;
     position: sticky;
@@ -245,4 +245,7 @@ color: black;
 }
 .fa-linkedin{
     font-size: 30px;
+}
+a{
+    color: black;
 }

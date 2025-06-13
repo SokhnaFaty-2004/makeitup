@@ -9,8 +9,7 @@
 nav{
     display: flex;
     height: 6%;
-   width: 90%;
-   margin-left: 5%;
+   width: 100%;
    background-color: white;
    background-color: #ffffff;
     position: sticky;
@@ -23,6 +22,7 @@ nav{
     border: 1px solid black;
     margin-top: 15px;
     overflow: hidden;
+    margin-left: 5%;
 }
 .logo img{
     width: 100%;
@@ -91,6 +91,7 @@ nav{
     background-color: #524596;
     display: flex;
     align-items: center;
+    color: white;
 }
 .contain1-2 h1{
     width: 40%;
@@ -298,4 +299,7 @@ color: black;
 }
 .fa-linkedin{
     font-size: 30px;
+}
+a{
+    color: black;
 }
