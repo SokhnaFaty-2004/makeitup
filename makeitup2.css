@@ -12,6 +12,9 @@ nav{
    width: 90%;
    margin-left: 5%;
    background-color: white;
+   background-color: #ffffff;
+    position: sticky;
+    top: 0;
 }
 .logo{
     width: 80px;
