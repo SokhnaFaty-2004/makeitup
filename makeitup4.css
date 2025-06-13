@@ -3,7 +3,6 @@
     height: 130rem;
     flex-wrap: wrap;
     font-family: poppins;
-    background-color: #524596;
 }
 nav{
     display: flex;
@@ -11,6 +10,8 @@ nav{
    width: 90%;
    margin-left: 5%;
    background-color: #ffffff;
+       position: sticky;
+    top: 0;
 
 }
 .logo{
