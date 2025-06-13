@@ -91,7 +91,7 @@ nav{
 .contain1-2 h1{
     width: 40%;
     margin-left: 10%;
-    color: black;
+    color: white;
     font-family: poppins ;
     font-size: 42px;
 
@@ -216,7 +216,7 @@ background-color: #524596;
     width: 40%;
     height: 50%;
     align-items: center;
-    color: black;
+    color: white;
     margin-left: 10%;
     margin-top: 15%;
 }
@@ -227,8 +227,8 @@ background-color: #524596;
     width: 150px;
     height: 30px;
     background-color: transparent;
-    color: black;
-    border: 1px solid black;
+    color: white;
+    border: 1px solid white;
     
 }
 .textbutton3 button:hover{
@@ -237,7 +237,7 @@ background-color: #524596;
 }
 .textbutton3 button a{
     text-decoration: none;
-    color: black;
+    color: white;
     border: 0;
 }
 .textbutton3 button a:hover{
